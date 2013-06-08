@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  channel: MyString
+  type: 
+  content: MyText
+  abuser: MyString
+  abuserCity: MyString
+  possibleLeaker: MyString
+  leakerCity: MyString
+
+two:
+  channel: MyString
+  type: 
+  content: MyText
+  abuser: MyString
+  abuserCity: MyString
+  possibleLeaker: MyString
+  leakerCity: MyString
